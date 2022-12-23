@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: spring-mvc
+Bundle-SymbolicName: spring-mvc
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-18
+Automatic-Module-Name: spring.mvc
+Export-Package: com.mvc.sample
